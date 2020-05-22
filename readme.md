@@ -20,7 +20,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the fol
 ## How to Run 
   After the installation. Do the following:
   
-  Step 1: ```bash
+  Step 1: ```
           node app.js
           ```
           
