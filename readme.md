@@ -1,6 +1,6 @@
 # Matrimonial
 
-This is a project on implementing the node.js,javasscript which uses mongoDB as a database and Passport.js for Authenticationa
+This is a project on implementing the node.js,javasscript which uses mongoDB as a database and Passport.js for Authentication.
 
 ## Installation 
 
@@ -29,4 +29,4 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the fol
   Step 3: Enjoy!
   
 
-IF YOU ENCOUNTER ANY BUGS OR FOR ANY SUGGESTIONS REGARDING THE PRJOECT PLEAS PING ME AT: amandutta004@gmail.com :smile:
+IF YOU ENCOUNTER ANY BUGS OR FOR ANY SUGGESTIONS REGARDING THE PRJOECT PLEASE PING ME AT: amandutta004@gmail.com :smile:
