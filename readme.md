@@ -1,6 +1,6 @@
 # Matrimonial
 
-This is a project on implementing the node.js,javasscript which uses mongoDB as a database and Passport.js for Authentication.
+This is a project on implementing the node.js, which uses mongoDB as a database and Passport.js for Authentication.
 
 ## Installation 
 
