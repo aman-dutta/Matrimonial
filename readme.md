@@ -7,7 +7,7 @@ This is a project on implementing the node.js, which uses mongoDB as a database 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following dependencies:
 
  * body-parser
- * connect-flas 
+ * connect-flash 
  * ejs
  * express
  * express-session
@@ -28,5 +28,5 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the fol
   
   Step 3: Enjoy!
   
+If you encounter nay bugs or have any suggestions, feel free to ping me! :smile:
 
-IF YOU ENCOUNTER ANY BUGS OR FOR ANY SUGGESTIONS REGARDING THE PRJOECT PLEASE PING ME AT: amandutta004@gmail.com :smile:
